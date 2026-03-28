@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bug-bounty-knowledge": {
+      "command": "node",
+      "args": ["C:\\Users\\evolv\\rs0n-bug-bounty-mcp-server\\dist\\index.js"]
+    }
+  }
+}
